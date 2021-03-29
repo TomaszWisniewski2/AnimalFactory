@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace AnimalFactory
+namespace AnimalFactory // Tomasz Wiśniewski, Artur Janiak
+                        // Zespół onomatopeja
 {
     class Program
     {
