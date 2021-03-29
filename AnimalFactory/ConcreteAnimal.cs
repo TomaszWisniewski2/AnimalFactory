@@ -17,7 +17,7 @@ namespace AnimalFactory
                 case "Ptak":
                     return new Ptak();
                 default:
-                    throw new ApplicationException(string.Format("animal '{0}' cannot be created", animal));
+                    throw new ApplicationException(string.Format("Animal '{0}' cannot be created", animal));
             }
         }
     }
